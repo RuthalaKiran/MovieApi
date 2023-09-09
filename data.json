@@ -1,0 +1,92 @@
+[
+  {
+    "movie_id": 1,
+    "movie_title": " Guardians of the Galaxy Vol 1",
+    "movie_description": "GUARDIANS OF THE GALAXY follows adventurer Peter Quill (Chris Pratt), who was abducted from Earth as a child in 1988 after his mother died. Fast-forward 26 years into the future: In a galaxy far, far away, Peter is a rogue outlaw who steals a powerful orb he plans to sell.",
+    "movie_year": 2014,
+    "movie_banner": "https://upload.wikimedia.org/wikipedia/en/3/33/Guardians_of_the_Galaxy_%28film%29_poster.jpg",
+    "movie_rating": 8.0,
+    "movie_path": "https://www.youtube.com/embed/d96cjJhvlMA?si=Y5Ba491tk1WO_Xg0"
+  },
+  {
+    "movie_id": 2,
+    "movie_title": " Guardians of the Galaxy Vol 2",
+    "movie_description": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father, the ambitious celestial being Ego.",
+    "movie_year": 2017,
+    "movie_banner": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_.jpg",
+    "movie_rating": 7.6,
+    "movie_path": "https://www.youtube.com/embed/dW1BIid8Osg?si=R2HAZ9oRCGfhfQAk"
+  },
+  {
+    "movie_id": 3,
+    "movie_title": " Guardians of the Galaxy Vol 3",
+    "movie_description": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+    "movie_year": 2023,
+    "movie_banner": "https://upload.wikimedia.org/wikipedia/en/7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg",
+    "movie_rating": 8.0,
+    "movie_path": "https://www.youtube.com/embed/u3V5KDHRQvk?si=_0mMe_ntwmGZD_Q0"
+  },
+  {
+    "movie_id": 4,
+    "movie_title": "Iron Man 1",
+    "movie_description": "Synopsis. 2008's Iron Man tells the story of Tony Stark, a billionaire industrialist and genius inventor who is kidnapped and forced to build a devastating weapon. Instead, using his intelligence and ingenuity, Tony builds a high-tech suit of armor and escapes captivity",
+    "movie_year": 2008,
+    "movie_banner": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg",
+    "movie_rating": 7.9,
+    "movie_path": "https://www.youtube.com/embed/8ugaeA-nMTc?si=h_tDqKIt5TAtjEr5"
+  },
+  {
+    "movie_id": 5,
+    "movie_title": "Iron Man 2",
+    "movie_description": "Six months after Iron Man, Tony Stark resists calls from the United States government to hand over the Iron Man technology, which is causing his declining health. Meanwhile, Russian scientist Ivan Vanko (Rourke) uses his own version of the technology to pursue a vendetta against the Stark family",
+    "movie_year": 2010,
+    "movie_banner": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/4571/674571-v",
+    "movie_rating": 6.9,
+    "movie_path": "https://www.youtube.com/embed/wKtcmiifycU?si=4SEsoCLS-_sFSV5P"
+  },
+  {
+    "movie_id": 6,
+    "movie_title": "Iron Man 3",
+    "movie_description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution. When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "movie_year": 2013,
+    "movie_banner": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg",
+    "movie_rating": 7.1,
+    "movie_path": "https://www.youtube.com/embed/Ke1Y3P9D0Bc?si=NqumAXvycAZXkmCC"
+  },
+  {
+    "movie_id": 7,
+    "movie_title": "Thor",
+    "movie_description": "As the son of Odin, king of the Norse gods, Thor will soon inherit the throne of Asgard from his aging father. However, on the day that he is to be crowned, Thor reacts with brutality when the gods' enemies, the Frost Giants, enter the palace in violation of their treaty.",
+    "movie_year": 2011,
+    "movie_banner": "https://upload.wikimedia.org/wikipedia/en/9/95/Thor_%28film%29_poster.jpg",
+    "movie_rating": 7.0,
+    "movie_path": "https://www.youtube.com/embed/JOddp-nlNvQ?si=OJUJq2Gn6unIzsJB"
+  },
+  {
+    "movie_id": 8,
+    "movie_title": "Thor: The Dark World",
+    "movie_description": "Thor (Chris Hemsworth) returns to do battle with Malekith (Christopher Eccleston), the vengeful leader of a primordial race that seeks to destroy the Nine Realms, in this big-budget comic book adventure set after the events of Marvel's The Avengers (2012).",
+    "movie_year": 2013,
+    "movie_banner": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_.jpg",
+    "movie_rating": 6.8,
+    "movie_path": "https://www.youtube.com/embed/npvJ9FTgZbM?si=9r0tQ1lwrFi7F-o3"
+  },
+  {
+    "movie_id": 9,
+    "movie_title": "Thor: Ragnarok",
+    "movie_description": "Thor is imprisoned on the other side of the universe without his mighty hammer and finds himself in a race against time to get back to Asgard to stop Ragnarok—the destruction of his homeworld and the end of Asgardian civilization—at the hands of an all-powerful new threat, the ruthless Hela.",
+    "movie_year": 2017,
+    "movie_banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMW5IxUCROzAhQFH-5mRTm5gHWgaUysYVLmpp5YzpUcEZ6EPUs4W2kVKZ4Q--ety8Oro&usqp=CAU",
+    "movie_rating": 7.9,
+    "movie_path": "https://www.youtube.com/embed/ue80QwXMRHg?si=c-1f9G7YH4JYJPJ7"
+  },
+  {
+    "movie_id": 10,
+    "movie_title": "Thor: Love and Thunder",
+    "movie_description": "In the film, Thor tries to find inner peace, but must return to action and recruit Valkyrie (Thompson), Korg (Waititi), and Jane Foster (Portman)—who is now the Mighty Thor—to stop Gorr the God Butcher (Bale) from eliminating all gods.",
+    "movie_year": 2022,
+    "movie_banner": "https://lumiere-a.akamaihd.net/v1/images/p_thorloveandthunder_639_593cb642.jpeg",
+    "movie_rating": 6.2,
+    "movie_path": "https://www.youtube.com/embed/Go8nTmfrQd8?si=zRX-7bYxF_DEANzq"
+  }
+]
